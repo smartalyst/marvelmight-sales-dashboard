@@ -31,6 +31,7 @@ The following power bi features were incorporated:
 ## Modelling
 The model is a star schema.
 There are two dimension tables and one fact table,the dimension table are joined with the fact table with a one-to-many  relationship.
+
 ![](https://github.com/smartalyst/marvelmight-sales-dashboard/blob/main/marvel%20sd%20model.jpg)
 
 
