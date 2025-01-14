@@ -1,5 +1,5 @@
 # Marvelmight-sales-dashboard
-![](https://github.com/smartalyst/marvelmight-sales-dashboard/blob/main/marvel%20sd%20best%20product.jpg)
+![](https://github.com/smartalyst/marvelmight-sales-dashboard/blob/main/sales%20forecas.webp)
 ---
 ## Introduction
 
@@ -33,5 +33,8 @@ The model is a star schema.
 There are two dimension tables and one fact table,the dimension table are joined with the fact table with a one-to-many  relationship.
 
 ![](https://github.com/smartalyst/marvelmight-sales-dashboard/blob/main/marvel%20sd%20model.jpg)
+
+## visualization
+You can interract with the report here(https://app.powerbi.com/groups/me/reports/95008815-591b-4f7e-b33f-c4c62430f469/ce57aa59cce3c280c5c4?experience=power-bi&bookmarkGuid=19eb26d824d4bf782b48)
 
 
